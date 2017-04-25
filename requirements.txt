@@ -1,0 +1,2 @@
+requests==2.13.0
+scrollphat==0.0.7
